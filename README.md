@@ -1,1 +1,6 @@
 # Company-Assignment
+
+LoginID- admin@gmail.com
+password-123
+
+Database is inside the db folder
